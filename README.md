@@ -1,4 +1,4 @@
 # A* Navigation
 ## References 
-* ![A* Pathfinding ]{https://www.youtube.com/watch?v=-L-WgKMFuhE&t=247s}
-* ![A* Pathfinding Visualization Tutorial - Python A* Path Finding Tutorial]{https://www.youtube.com/watch?v=JtiK0DOeI4A}
+* ![A* Pathfinding, by Sebastian Lague ](https://www.youtube.com/watch?v=-L-WgKMFuhE&t=247s)
+* ![A* Pathfinding Visualization](https://www.youtube.com/watch?v=JtiK0DOeI4A)
